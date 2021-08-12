@@ -14,7 +14,7 @@ As a user I would like to:
 
 ## SetUp / Installation Requirements
 ## Prerequisites
-+ python3.6
++ python3.8
 + pip
 + virtualenv
 
@@ -46,7 +46,7 @@ In your terminal:
   * Insert the following info into it:
 
           export NEWS_API_KEY='<Your-Api-Key>'
-          python3.6 manage.py server
+          python3.8 manage.py server
 
   * Insert the API Key you received from News Api where <Your-Api-Key> is.
 To run the application, in your terminal:
