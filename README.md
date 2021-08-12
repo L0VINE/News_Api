@@ -27,15 +27,15 @@ In your terminal:
 ## Running the Application
 ### Creating the virtual environment
 
-  $ python3.6 -m venv --without-pip virtual
+  $ python3.8 -m venv --without-pip virtual
   $ source virtual/bin/env
   $ curl https://bootstrap.pypa.io/get-pip.py | python
 
 ### Installing Flask and other Modules
 
-  $ python3.6 -m pip install Flask
-  $ python3.6 -m pip install Flask-Bootstrap
-  $ python3.6 -m pip install Flask-Script
+  $ python3.8 -m pip install Flask
+  $ python3.8 -m pip install Flask-Bootstrap
+  $ python3.8 -m pip install Flask-Script
 
 ### Setting up the API Key
 
@@ -57,10 +57,10 @@ To run the application, in your terminal:
 ## Testing the Application
 ### To run the tests for the class files:
 
-  $ python3.6 manage.py tests
+  $ python3.8 manage.py tests
 
 ## Technologies Used
-+ Python3.6
++ Python3.8
 + Flask
 + License
 + Copyright (c) 2021 Lovine
