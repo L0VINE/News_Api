@@ -3,9 +3,9 @@
     display: flex;
   
 }
-/* #newa {
+#newa {
   display: flex;
-} */
+} 
 .col-9 {
   overflow-y: auto;
   height: 90vh; /* NEW */
